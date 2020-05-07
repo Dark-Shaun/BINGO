@@ -1,7 +1,3 @@
-import numpy as np
-import numpy
-import np
-from random import randint
 def pname():
     global name_1,name_2
     name_1=input("Enter the name of the player 1:")
